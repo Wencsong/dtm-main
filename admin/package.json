@@ -8,7 +8,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "ant-design-vue": "^3.1.1",
+    "ant-design-vue": "^3.2.15",
     "vue": "^3.2.25",
     "vue-demi": "^0.13.11",
     "vue-request": "^1.2.4"
